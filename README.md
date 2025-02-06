@@ -2,7 +2,8 @@
 
 Esse projeto foi criado com o intuíto de responder o desafio proposto pela plataforma DIO.
 
-Foi criado uma aplicação Java na qual foi utilizado alguns exemplos de padrões DP (Gof), sendo eles:
+Foi criado uma aplicação Java que simula um programa de envio de mensagens (Notificações), 
+na qual foi utilizado alguns exemplos de padrões DP (Gof), sendo eles:
 
 - O Singleton que garente uma única instância seja utiizada para instanciar o NotificationManager.
 - O Factory Method para cria notificações de diferentes tipos (E-mail ou SMS).
