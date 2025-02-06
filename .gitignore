@@ -1,0 +1,14 @@
+# Ignorar diretórios de compilação
+/bin/
+/out/
+target/
+build/
+
+# Ignorar arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Ignorar arquivos de configuração do IntelliJ IDEA
+*.iml
+.idea/
