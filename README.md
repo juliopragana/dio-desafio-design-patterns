@@ -11,3 +11,5 @@ na qual foi utilizado alguns exemplos de padrões DP (Gof), sendo eles:
 - O Observer para notificar todos os usuários registrados sobre um evento.
 - O Strategy permite que a notificação seja enviada de diferentes formas, como SMS ou E-mail.
 - O MVC, para separar a lógica do modelo, visualização e controle.
+
+Versão do Java utilizado no projeto: Java 21
